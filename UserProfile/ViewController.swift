@@ -151,8 +151,6 @@ class ViewController: UIViewController {
             
             aboutView.isHidden = true
             aboutTopView.isHidden = true
-        case 2:
-            break
         default:
             break
         }
